@@ -13,7 +13,7 @@
 - Get a report at any time on Freds position using `report` command (this will be run automatically when he moves);
 
 ###Example usage
-![usage](https://dl.dropboxusercontent.com/content_link/9dg2tWfzwXDGGDcQLh1PhxakFwDCNfS6V4TumoJ9Ih8Os2RPtKkINI8vbgpmP5q0/file)
+![usage](https://www.dropbox.com/s/lghq5q09xvyyicy/Screenshot%202016-07-18%2023.03.46.png?raw=1)
 
 ###Todo's
 - Tests
