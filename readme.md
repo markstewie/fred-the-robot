@@ -12,6 +12,9 @@
 - Rotate using `left` or `right` commands
 - Get a report at any time on Freds position using `report` command (this will be run automatically when he moves);
 
+###Example usage
+![usage](https://dl.dropboxusercontent.com/content_link/9dg2tWfzwXDGGDcQLh1PhxakFwDCNfS6V4TumoJ9Ih8Os2RPtKkINI8vbgpmP5q0/file)
+
 ###Todo's
 - Tests
 - Tidy up
