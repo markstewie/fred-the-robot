@@ -11,9 +11,9 @@ const reporter = require('./lib/robot-reporter');
 // REPORT (announce X,Y,F of robot)
 
 vorpal
-  .command('place [xyz]', 'Places me at X,Y facing Z (NSEW).')
+  .command('place [xyz]', 'Places me at X,Y facing Z (NSEW). e.g. place 0,0,N')
   .action(function(args, callback) {
-    if(position.at(args.xyz)) {
+    if(position.place(args.xyz)) {
       reporter.report(position.getPosition());
     }
     callback();
@@ -51,6 +51,12 @@ vorpal
   .action(function(args, callback) {
     reporter.report(position.getPosition());
     callback();
+  });
+
+vorpal
+  .command('remove', 'Removes me from the board.')
+  .action(function(args, callback) {
+    position.remove();
   });
 
 vorpal

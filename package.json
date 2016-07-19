@@ -14,5 +14,10 @@
   "license": "ISC",
   "dependencies": {
     "vorpal": "^1.11.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "test-console": "^1.0.0"
   }
 }
