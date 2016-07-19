@@ -8,7 +8,7 @@
 - Run `help` for instructions
 
 ###Notes
-- Fred must be placed first using `place x,y,z` command with x between 0-4, y between 0-4 & z one of N,S,E or W. eg place 3,1,N.
+- Fred must be placed first using `place x,y,z` command with x between 0-4, y between 0-4 & z one of N,S,E or W. eg `place 3,1,N`.
 - Move Fred with `move` command
 - Rotate using `left` or `right` commands
 - Get a report at any time on Freds position using `report` command (this will be run automatically when he moves);
