@@ -22,5 +22,5 @@
 - `report`
 
 ###Example usage
-![usage](https://www.dropbox.com/s/lghq5q09xvyyicy/Screenshot%202016-07-18%2023.03.46.png?raw=1)
+![usage](https://www.dropbox.com/s/pq5o15068mbe6tc/Screenshot%202016-07-19%2012.52.22.png?raw=1)
 
