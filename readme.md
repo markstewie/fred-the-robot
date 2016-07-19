@@ -1,4 +1,4 @@
-# FRED THE MOVABLE ROBOT!!
+# Fred the Robot
 
 ###Instructions
 - Clone repo
